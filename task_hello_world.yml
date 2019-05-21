@@ -8,5 +8,5 @@ image_resource:
     tag: xenial
 
 run:
-  path: uname
-  args: [-a]
+  path: echo
+  args: [carlos]
